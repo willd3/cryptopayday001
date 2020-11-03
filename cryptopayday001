@@ -1,0 +1,27 @@
+Introduction
+
+A lot of people are shocked when I tell them that I get most of my paycheck in Ethereum.  It seems risky to get paid in such a volatile assets, but with a little bit of risk management you can minimize the risk and quite often profit.  Despite the price volatility of Ethereum in general, by cost-averaging each paycheck into Ethereum it is suprisingly pretty stable throughout a year.
+
+If you get paid in Ethereum or tokens that are on the Ethereum platform, you have easy access to a wonderful ecosystem of decentralized finance. The key to making your Ethereum paycheck more stable is to leverage it out, using one of the various defi websites, such as compound.finance.  By leveraging out your Ethereum, to get stable coins, you minimize your maximum loss, and retain profits during price spikes.
+
+First off you need to figure out how much money you will need until the next payday.  If you are getting $1000 worth of Ethereum, but you need $800 for your bills you will not be able to leverage it all out, you will need to cash out, or convert $600 worth of your Ethereum to stablecoins before proceeding. Then when you leverage out the remaining $400 worth of Ethereum you will get approximately $200 worth of stablecoins from the loan.  In this way the $800 of value ($600 + $200) that you require for your bills is obtained, and you have $400 worth of Ethereum price exposure.
+
+In order to leverage out your Ethereum, you just supply your Ethereum as collateral in a decentralized application such as app.compound.finance, and get a loan for about 50-60% of the value of the Ethereum, in a stablecoin.  In this way, if Ethereum goes down, you might lose some of your Ethereum, but your maximum risk is about 50% of the value.  On the other hand if Ethereum price spikes you can withdraw Ethereum out of the collateral to use as extra spending money, or to divert into a long term cold storage savings.
+
+Over the time period between paydays, the price of Ethereum could fluctuate quite a bit, but at the end of each pay period, you just withdraw all of the excess value from the platform before starting a new leveraged position for a new pay period.
+
+For example, if you get paid every 2 weeks, you just pay off the loan (DAI), and withdraw the remaining Ethereum from the platform.  One thing that is helpful is to always have enough extra stablecoins (such as DAI) already on the address to pay off the loan, that way you don't have to make multiple transactions while unwinding the leveraged position.  
+
+The Ethereum that you withdrew, at the end of the pay period, can be used to diversify your crypto portfolio.  For example you could convert 40% of your withdrawn ETH to WBTC to gain exposure to BTC price, 40 % to a yield farming tokenset, and the remaining 20% of your ETH to a cold storage address.
+
+By using this method you will integrate crypto savings into your normal finances, and build a diversified portfolio.
+
+Here's a step by step breakdown.
+
+1. Decide on how much Ethereum you want to supply to leverage  from your paycheck.  If you need more than 50% of your paycheck for bills and such, you will need to convert part of your Ethereum to stablecoins to lock in bill money before leveraging.
+2. Supply Ethereum to the decentrailized finance protocol, such as app.compound.finance.
+3. Borrow stablecoins, such as DAI, to use this for bill money.
+4. Can access the stablecoin value when bills are due for payment with various crypto gift card, crypto debit card platforms.
+5. At the end of the pay period, before leveraging new paycheck, unwind current leveraged position by paying off the loan with your extra stablecoins, and withdrawing the collateral.
+6. Distribute collateral to various assets such as tokensets, WBTC, or simply withdraw ETH to cold storage for safety.
+7. Enjoy.
